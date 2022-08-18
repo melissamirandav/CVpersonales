@@ -37,3 +37,35 @@ footer{background-image: url(../Images/fondo.jpg);
     
 text-align: center;
 font-weight: bold;}
+
+/*css isa*/
+
+.dato{
+    background-image: url("../Images/fondo_isa.jpeg");
+    text-align: center;
+}
+
+
+.separador{
+    height: 20px;
+}
+
+.titulo{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 40px;
+    color:purple ;
+}
+
+.pagina{
+    background-image: url("../Images/fondo_isa.jpeg");
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:brown;
+}
+
+.inicio{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:brown;
+
+}

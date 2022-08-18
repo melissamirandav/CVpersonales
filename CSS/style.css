@@ -1,3 +1,4 @@
+
 header{
     background-image: url("../Images/fondo.jpg");
     text-align: center;
@@ -35,6 +36,7 @@ h1{
     height: 150px;
 }
 
+
 h2{
     font-family: 'DynaPuff', cursive;
     text-align: center;
@@ -65,3 +67,48 @@ footer{
     background-color: #FFA07A;
     opacity: 0.5; 
 }
+
+/* CSS isa */
+
+.header-isa{
+    background-image: url("../Images/fondo_isa.jpeg");
+    text-align: center;
+}
+.Foto-isa{
+    width: 180px;
+    height: 260px;
+}
+
+#nombre{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 40px;
+    color:purple;
+}
+
+.Foto{
+    width: 180px;
+    height: 150px;
+}
+
+.datos{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    background-color: #31b981;
+    
+}
+
+.footer-datos{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    background-color: #31b981;
+    
+}
+
+.separador{
+    height: 20px;
+}
+
+
+
+
