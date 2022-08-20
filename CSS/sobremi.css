@@ -69,3 +69,38 @@ font-weight: bold;}
     color:brown;
 
 }
+
+/*css Lizzy*/
+
+.datos-lizzy{
+    color: #fff5f6;
+    background-image: url("../Images/BannerLizeth.png");
+    font-family: 'Poppins', sans-serif;
+    background-color: #567B81;
+    text-align: center;
+}
+
+
+.separador{
+    height: 20px;
+}
+
+.titulo-lizzy{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-weight: 40px;
+    color: #fd6970;
+}
+
+.pagina-lizzy{
+    background-image: url("../Images/BannerLizeth.png");
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color:brown;
+}
+
+.inicio-lizzy{
+    font-family: 'Poppins', sans-serif;
+    color:brown;
+
+}

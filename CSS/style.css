@@ -109,6 +109,40 @@ footer{
     height: 20px;
 }
 
+/* CSS Lizzy */
+
+.header-Lizzy{
+    background-image: url("../Images/BannerLizeth.png");
+    text-align: center;
+}
+
+#curriculumlizzy{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-weight: 40px;
+    color: #fd6970;
+}
+
+.Foto-lizzy{
+    width: 180px;
+    height: 300px;
+}
+
+.datos-lizzy{
+    color: #fff5f6;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background-color: #567B81;
+    
+}
+
+.footer-lizzy{
+    color: #fff5f6;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background-color: #567B81;
+    
+}
 
 
 
